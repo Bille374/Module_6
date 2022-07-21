@@ -44,6 +44,8 @@ Use the hvplot function to plot the housing_units_by_year DataFrame as a bar cha
 Style and format the line plot to ensure a professionally styled visualization.
 
 Note that your resulting plot should appear similar to the following image:
+![image](https://user-images.githubusercontent.com/69637182/180159256-66d82843-eb2c-4c02-a004-d3c22e130d8a.png)
+
 
 6-4-zoomed-housing-units-by-year.png
 
@@ -63,6 +65,8 @@ HINT
 Style and format the line plot to ensure a professionally styled visualization.
 
 Note that your resulting plot should appear similar to the following image:
+![image](https://user-images.githubusercontent.com/69637182/180159309-a203b8a4-1592-441e-8f4e-9ad1ec81df44.png)
+
 
 6-4-avg-sale-px-sq-foot-gross-rent.png
 
@@ -84,6 +88,8 @@ Create an interactive line plot with hvPlot that visualizes both sale_price_sqr_
 Style and format the line plot to ensure a professionally styled visualization.
 
 Note that your resulting plot should appear similar to the following image:
+![image](https://user-images.githubusercontent.com/69637182/180159360-e73b2211-95e2-4860-8a2e-f3d7c06237d8.png)
+
 
 6-4-pricing-info-by-neighborhood.png
 
@@ -112,6 +118,8 @@ Set the frame_height parameter to 500.
 Include a descriptive title.
 
 Note that your resulting plot should appear similar to the following image:
+![image](https://user-images.githubusercontent.com/69637182/180159441-0eb65609-503d-4c13-b436-60d26f4ee6c4.png)
+
 
 6-4-geoviews-plot.png
 
