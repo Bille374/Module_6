@@ -1,4 +1,6 @@
 # Module_6
+![image](https://user-images.githubusercontent.com/69637182/180158582-5c7a86b1-5bf0-4c20-8164-a7b52462471b.png)
+
 Background
 Proptech, the application of technology to real-estate markets, is an innovative domain in the fintech industry. Assume that you’re an analyst at a proptech company that wants to offer an instant, one-click service for people to buy properties and then rent them. The company wants to have a trial of this offering in the San Francisco real-estate market. If the service proves popular, they can then expand to other markets.
 
